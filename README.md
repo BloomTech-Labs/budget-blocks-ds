@@ -6,6 +6,8 @@
 
 [DS API](https://api.budgetblocks.org/)
 
+[Video Overview](https://www.youtube.com/watch?v=cf3lLvb7I3s)
+
 ## Contributers
 
 | Adriann Lefebvere | Chris Jakuc |
